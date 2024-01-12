@@ -1,1 +1,3 @@
- my branch commite changes
+ my branch commit changes
+looking for conflict
+2nd branch
