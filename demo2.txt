@@ -1,1 +1,3 @@
- my branch commite changes
+ my branch commit changes
+asking for pull request 
+changing the status
